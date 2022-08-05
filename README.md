@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TatyanaMartyn
+- 👋 Hi, I’m @TatyanaMart
 - 👀 I’m interested in being a GeekBrains student, taking my first steps in IT.
 - 🌱 I’m currently learning as a front-end developer.
 - 💞️ I’m looking to collaborate with a successful company.
